@@ -6079,6 +6079,14 @@ let cards = [
     author: 'Vanessa Vun',
     githubLink: 'https://github.com/vanessavun'
   }
+  {
+   artName: "Animatron",
+   pageLink: "./Art/animatron/index.html",   
+   imageLink: "./Art/animatron/trance.gif",
+   author: 'harukzz',
+   githubLink: 'https://github.com/harukzz'
+  }
+
 ];
 
 // +--------------------------------------------------------------------------------+
@@ -6114,3 +6122,4 @@ function Shuffle(o) {
   );
   return o;
 }
+
